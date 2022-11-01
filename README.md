@@ -1,3 +1,5 @@
+theme: minima
+
 # Code 102: Intro to Software Development
 
 ## Welcome to Code Fellows!
